@@ -30,7 +30,7 @@ export default function CancellationTerms() {
         <p className="mt-4 text-xl text-gray-500 leading-8">
           Su Plan Premium puede ser cancelado en cualquier momento a través de la página de
           configuración de su cuenta de usuario o enviando un correo electrónico a
-          mail@SoloPython.com. Después de la cancelación, su Plan Premium permanecerá activo hasta
+          juampilistte@gmail.com. Después de la cancelación, su Plan Premium permanecerá activo hasta
           el final de su período Premium en curso en la medida en que su cuota de suscripción esté
           pagada. No ofreceremos reembolsos de ninguna cuota o cargo relacionado con su Plan Premium
           - esto incluye cualquier período parcialmente utilizado o no utilizado por el que ya haya
@@ -49,7 +49,7 @@ export default function CancellationTerms() {
           o Plan. En caso de terminación o expiración, sus derechos bajo estos Términos, su Cuenta y
           el derecho a acceder y usar el Servicio terminarán inmediatamente. La terminación o
           expiración puede implicar la eliminación de su Contenido de Usuario asociado a su Cuenta.
-          SoloPython no tendrá ninguna responsabilidad ante usted por la terminación de sus derechos
+          Yula no tendrá ninguna responsabilidad ante usted por la terminación de sus derechos
           bajo estos Términos, incluyendo la terminación de su Cuenta o la eliminación de su
           Contenido de Usuario. Incluso después de la terminación de sus derechos bajo estos
           Términos, las siguientes Secciones permanecerán en efecto: 6.1, 5, 7, 9 a 13.

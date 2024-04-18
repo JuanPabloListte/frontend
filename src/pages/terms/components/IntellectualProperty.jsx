@@ -14,10 +14,10 @@ export default function IntellectualProperty() {
           Excluyendo cualquier Contenido de Usuario que usted pueda proporcionar, usted reconoce que
           todos los derechos de propiedad intelectual, incluyendo derechos de autor, patentes,
           marcas registradas y secretos comerciales, en el Servicio y su contenido son propiedad de
-          SoloPython Technologies LLC o de los proveedores de SoloPython Technologies LLC
+          Yula Technologies LLC o de los proveedores de Yula Technologies LLC
           ("Materiales de Propiedad"). Ni estas Condiciones ni su acceso al Servicio le transfieren
           a usted o a un tercero ningún derecho, título o interés sobre dichos Materiales de
-          Propiedad Intelectual, salvo la licencia limitada de la Sección 2. SoloPython Technologies
+          Propiedad Intelectual, salvo la licencia limitada de la Sección 2. Yula Technologies
           LLC y sus proveedores se reservan todos los derechos no concedidos en estas Condiciones.
           La Licencia que se le otorga a usted por estos Términos es un derecho de uso y acceso del
           Servicio a través del Sitio solamente, y no le otorga ningún derecho a descargar o

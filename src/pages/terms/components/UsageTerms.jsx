@@ -89,7 +89,7 @@ export default function UsageTerms() {
           </span>
         </h4>
         <p className="mt-4 text-xl text-gray-500 leading-8">
-          Usted reconoce y acepta que SoloPython no tendrá ninguna obligación de proporcionarle
+          Usted reconoce y acepta que Yula no tendrá ninguna obligación de proporcionarle
           ningún tipo de soporte o mantenimiento en relación con el Servicio
         </p>
       </div>

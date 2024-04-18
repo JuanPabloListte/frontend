@@ -11,7 +11,7 @@ export default function Header() {
             Politica de privacidad
           </p>
           <p className="max-w-xl mt-5 mx-auto text-xl text-gray-500">
-            SoloPython ("nosotros" o "nuestro") opera los sitios web https://www.solopython.com (el
+            Yula ("nosotros" o "nuestro") opera los sitios web https://www.yula.com (el
             "Servicio").
           </p>
           <p className="max-w-xl mt-5 mx-auto text-xl text-gray-500">
@@ -19,7 +19,7 @@ export default function Header() {
             usted acepta la recopilación y el uso de la información de acuerdo con esta política. A
             menos que se defina de otro modo en estas condiciones de servicio, los términos
             utilizados en esta política tienen el mismo significado que en nuestra política de
-            privacidad, accesible desde http://www.solopython.com/privacy
+            privacidad, accesible desde http://www.yula.com/privacy
           </p>
         </div>
       </div>

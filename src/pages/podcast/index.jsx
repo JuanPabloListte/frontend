@@ -3,21 +3,21 @@ import Layout from '@/hocs/Layout';
 
 const SeoList = {
   title:
-    'Podcasts de SoloPython - Descubre nuestras conversaciones sobre marketing y desarrollo de software',
+    'Podcasts de Yula - Descubre nuestras conversaciones sobre marketing y desarrollo de software',
   description:
-    'Escucha nuestros podcasts en SoloPython, donde discutimos temas de actualidad en marketing y desarrollo de software. Únete a nosotros para aprender, inspirarte y mantenerte al día en la industria.',
+    'Escucha nuestros podcasts en Yula, donde discutimos temas de actualidad en marketing y desarrollo de software. Únete a nosotros para aprender, inspirarte y mantenerte al día en la industria.',
   href: '/podcasts',
-  url: 'https://solopython.com/podcasts',
+  url: 'https://yula.com/podcasts',
   keywords:
     'podcasts, marketing de software, desarrollo de software, aprendizaje, conversaciones, industria del software',
   robots: 'all',
-  author: 'SoloPython',
-  publisher: 'SoloPython',
+  author: 'Juampilistte',
+  publisher: 'Juampilistte',
   image:
     'https://bafybeiaor24mrcurzyzccxl7xw46zdqpor4sfuhddl6tzblujoiukchxnq.ipfs.w3s.link/teach.png',
   video: 'https://boomslagcourses.s3.us-east-2.amazonaws.com/Quack+Sound+Effect.mp4',
 
-  twitterHandle: '@boomslag_',
+  twitterHandle: '@juampilistte1',
 };
 
 export default function Podcast() {

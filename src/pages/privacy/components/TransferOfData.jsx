@@ -28,7 +28,7 @@ export default function TransferOfData() {
       </div>
       <div className="text-lg max-w-prose mx-auto">
         <p className="mt-4 text-xl text-gray-500 leading-8">
-          SoloPython tomará todas las medidas razonablemente necesarias para garantizar que sus
+          Yula tomará todas las medidas razonablemente necesarias para garantizar que sus
           datos sean tratados de forma segura y de acuerdo con esta Política de Privacidad y no se
           llevará a cabo ninguna transferencia de sus Datos Personales a una organización o país a
           menos que existan controles adecuados que incluyan la seguridad de sus datos y otra

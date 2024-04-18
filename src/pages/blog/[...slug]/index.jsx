@@ -11,14 +11,14 @@ export default function BlogPost({ slug, post }) {
     title: `${post.title} - ${post.short_description}`,
     description: post.short_description,
     href: `/blog/${slug[0]}`,
-    url: `https://solopython.com/blog/${slug[0]}`,
+    url: `https://yula.com/blog/${slug[0]}`,
     keywords: post.keywords,
     robots: 'all',
     author: post.author.username,
-    publisher: 'SoloPython',
+    publisher: 'Juampilistte',
     image: post.thumbnail,
     video: post.video || '',
-    twitterHandle: '@boomslag_',
+    twitterHandle: '@juampilistte1',
   };
 
   return (

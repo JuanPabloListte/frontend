@@ -47,7 +47,7 @@ export default function PaymentTerms() {
           que dichos importes sean pagados en su totalidad. Usted se compromete a proporcionar
           información de pago actualizada cuando se le solicite y en cualquier momento en que la
           información que proporcionó anteriormente ya no sea válida. Usted reconoce y acepta que ni
-          SoloPython, ni ningún agente de SoloPython, tendrá responsabilidad alguna por cualquier
+          Yula, ni ningún agente de Yula, tendrá responsabilidad alguna por cualquier
           insuficiencia de fondos u otros cargos en los que usted incurra como resultado de los
           intentos de cargar, y/o colocar retenciones en su método de pago especificado como se
           contempla en estos Términos. Si usted proporciona un número de tarjeta de débito en lugar

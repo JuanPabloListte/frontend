@@ -5,21 +5,21 @@ import FetchBlogPosts from '@/utils/api/blog/List';
 import BlogList from './components/BlogList';
 
 const SeoList = {
-  title: 'Blog de SoloPython - Artículos y noticias sobre marketing y desarrollo de software',
+  title: 'Blog de Yula - Artículos y noticias sobre marketing y desarrollo de software',
   description:
-    'Explora nuestro blog de SoloPython, donde compartimos artículos interesantes y noticias actualizadas sobre marketing y desarrollo de software. Aprende con nosotros y mantente informado sobre las últimas tendencias y mejores prácticas en la industria.',
+    'Explora nuestro blog de Yula, donde compartimos artículos interesantes y noticias actualizadas sobre marketing y desarrollo de software. Aprende con nosotros y mantente informado sobre las últimas tendencias y mejores prácticas en la industria.',
   href: '/blog',
-  url: 'https://solopython.com/blog',
+  url: 'https://yula.com/blog',
   keywords:
     'blog, marketing de software, desarrollo de software, noticias, tendencias, mejores prácticas',
   robots: 'all',
-  author: 'SoloPython',
-  publisher: 'SoloPython',
+  author: 'Juampilistte',
+  publisher: 'Juampilistte',
   image:
     'https://bafybeiaor24mrcurzyzccxl7xw46zdqpor4sfuhddl6tzblujoiukchxnq.ipfs.w3s.link/teach.png',
   video: 'https://boomslagcourses.s3.us-east-2.amazonaws.com/Quack+Sound+Effect.mp4',
 
-  twitterHandle: '@boomslag_',
+  twitterHandle: '@juampilistte1',
 };
 
 export default function Blog() {

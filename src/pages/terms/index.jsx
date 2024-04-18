@@ -3,21 +3,21 @@ import Layout from '@/hocs/Layout';
 import Header from './components/Header';
 
 const SeoList = {
-  title: 'Términos de Servicio - SoloPython, Empresa de Desarrollo de Software',
+  title: 'Términos de Servicio - Yula, Empresa de Desarrollo de Software',
   description:
-    'Los Términos de Servicio de SoloPython establecen las condiciones bajo las cuales ofrecemos nuestros servicios de desarrollo de software y marketing. Lea atentamente nuestros términos para comprender sus derechos y responsabilidades como cliente o usuario de nuestros servicios.',
+    'Los Términos de Servicio de Yula establecen las condiciones bajo las cuales ofrecemos nuestros servicios de desarrollo de software y marketing. Lea atentamente nuestros términos para comprender sus derechos y responsabilidades como cliente o usuario de nuestros servicios.',
   href: '/terms',
-  url: 'https://solopython.com/terms',
+  url: 'https://yula.com/terms',
   keywords:
-    'SoloPython, términos de servicio, empresa de desarrollo de software, condiciones, derechos y responsabilidades',
+    'Yula, términos de servicio, empresa de desarrollo de software, condiciones, derechos y responsabilidades',
   robots: 'all',
-  author: 'SoloPython',
-  publisher: 'SoloPython',
+  author: 'Juampilistte',
+  publisher: 'Juampilistte',
   image:
     'https://bafybeiaor24mrcurzyzccxl7xw46zdqpor4sfuhddl6tzblujoiukchxnq.ipfs.w3s.link/teach.png',
   video: '',
 
-  twitterHandle: '@boomslag_',
+  twitterHandle: '@juampilistte1',
 };
 
 export default function Terms() {

@@ -15,7 +15,7 @@ export default function Header() {
             usted acepta la recopilación y el uso de la información de acuerdo con esta política. A
             menos que se defina de otro modo en estas condiciones de servicio, los términos
             utilizados en esta política tienen el mismo significado que en nuestra política de
-            privacidad, accesible desde http://www.solopython.com/privacy
+            privacidad, accesible desde http://www.yula.com/privacy
           </p>
         </div>
       </div>

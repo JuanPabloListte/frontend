@@ -17,21 +17,21 @@ import ChildrensPrivacy from './components/ChildrensPrivacy';
 import Changes from './components/Changes';
 
 const SeoList = {
-  title: 'Política de Privacidad - SoloPython, Empresa de Desarrollo de Software',
+  title: 'Política de Privacidad - Yula, Empresa de Desarrollo de Software',
   description:
-    'La Política de Privacidad de SoloPython explica cómo recopilamos, utilizamos y protegemos la información personal de nuestros clientes y usuarios. Conozca nuestros compromisos y responsabilidades en relación con la privacidad y protección de datos.',
+    'La Política de Privacidad de Yula explica cómo recopilamos, utilizamos y protegemos la información personal de nuestros clientes y usuarios. Conozca nuestros compromisos y responsabilidades en relación con la privacidad y protección de datos.',
   href: '/privacy-policy',
-  url: 'https://solopython.com/privacy-policy',
+  url: 'https://yula.com/privacy-policy',
   keywords:
-    'SoloPython, política de privacidad, protección de datos, empresa de desarrollo de software',
+    'Yula, política de privacidad, protección de datos, empresa de desarrollo de software',
   robots: 'all',
-  author: 'SoloPython',
-  publisher: 'SoloPython',
+  author: 'Juampilistte',
+  publisher: 'Juampilistte',
   image:
     'https://bafybeiaor24mrcurzyzccxl7xw46zdqpor4sfuhddl6tzblujoiukchxnq.ipfs.w3s.link/teach.png',
   video: '',
 
-  twitterHandle: '@boomslag_',
+  twitterHandle: '@juampilistte1',
 };
 
 export default function Privacy() {

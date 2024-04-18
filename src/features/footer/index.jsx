@@ -244,7 +244,7 @@ export default function Footer() {
             ))}
           </div>
           <p className="mt-8 text-xs leading-5 dark:text-dark-txt text-gray-500 md:order-1 md:mt-0">
-            &copy; 2023 SoloPython, DAO. All rights reserved.
+            &copy; 2023 Yula, DAO. All rights reserved.
           </p>
         </div>
       </div>

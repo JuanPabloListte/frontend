@@ -14,7 +14,7 @@ export default function ThirdParties() {
           Cada usuario del Servicio es el único responsable de su propio Contenido de Usuario. No
           ofrecemos ninguna garantía sobre la exactitud, la actualidad, la idoneidad o la calidad de
           cualquier Contenido de Usuario. Sus interacciones con otros usuarios del Servicio son
-          únicamente entre usted y dichos usuarios. Usted acepta que SoloPython no será responsable
+          únicamente entre usted y dichos usuarios. Usted acepta que Yula no será responsable
           de ninguna pérdida o daño incurrido como resultado de dichas interacciones. Si hay una
           disputa entre usted y cualquier usuario del Servicio, no tenemos ninguna obligación de
           involucrarnos.

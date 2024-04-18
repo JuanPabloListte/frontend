@@ -2,21 +2,21 @@ import Head from 'next/head';
 import Layout from '@/hocs/Layout';
 
 const SeoList = {
-  title: 'Nuestros servicios - Servicios de marketing y desarrollo de software de SoloPython',
+  title: 'Nuestros servicios - Servicios de marketing y desarrollo de software de Yula',
   description:
-    'Conozca los servicios que ofrecemos en SoloPython, especializados en marketing y desarrollo de software. Ayudamos a nuestros clientes a lograr sus objetivos mediante soluciones innovadoras y personalizadas.',
+    'Conozca los servicios que ofrecemos en Yula, especializados en marketing y desarrollo de software. Ayudamos a nuestros clientes a lograr sus objetivos mediante soluciones innovadoras y personalizadas.',
   href: '/services',
-  url: 'https://solopython.com/services',
+  url: 'https://yula.com/services',
   keywords:
     'marketing de software, desarrollo de software, servicios, soluciones innovadoras, servicios personalizados',
   robots: 'all',
-  author: 'SoloPython',
-  publisher: 'SoloPython',
+  author: 'Juampilistte',
+  publisher: 'Juampilistte',
   image:
     'https://bafybeiaor24mrcurzyzccxl7xw46zdqpor4sfuhddl6tzblujoiukchxnq.ipfs.w3s.link/teach.png',
   video: 'https://boomslagcourses.s3.us-east-2.amazonaws.com/Quack+Sound+Effect.mp4',
 
-  twitterHandle: '@boomslag_',
+  twitterHandle: '@juampilistte1',
 };
 
 export default function Services() {

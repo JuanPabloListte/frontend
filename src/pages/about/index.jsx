@@ -2,21 +2,21 @@ import Head from 'next/head';
 import Layout from '@/hocs/Layout';
 
 const SeoList = {
-  title: 'Acerca de SoloPython - Empresa de desarrollo de software y marketing',
+  title: 'Acerca de Yula - Empresa de desarrollo de software y marketing',
   description:
-    'Conoce a SoloPython, una empresa de desarrollo de software y marketing que se especializa en soluciones innovadoras y efectivas para nuestros clientes. Descubre nuestro enfoque, nuestra historia y cómo podemos ayudarte a alcanzar tus objetivos.',
+    'Conoce a Yula, una empresa de desarrollo de software y marketing que se especializa en soluciones innovadoras y efectivas para nuestros clientes. Descubre nuestro enfoque, nuestra historia y cómo podemos ayudarte a alcanzar tus objetivos.',
   href: '/about',
-  url: 'https://solopython.com/about',
+  url: 'https://yula.com/about',
   keywords:
-    'SoloPython, empresa de desarrollo de software, marketing, soluciones, historia, innovación',
+    'Yula, empresa de desarrollo de software, marketing, soluciones, historia, innovación',
   robots: 'all',
-  author: 'SoloPython',
-  publisher: 'SoloPython',
+  author: 'Juampilistte',
+  publisher: 'Juampilistte',
   image:
     'https://bafybeiaor24mrcurzyzccxl7xw46zdqpor4sfuhddl6tzblujoiukchxnq.ipfs.w3s.link/teach.png',
   video: 'https://boomslagcourses.s3.us-east-2.amazonaws.com/Quack+Sound+Effect.mp4',
 
-  twitterHandle: '@boomslag_',
+  twitterHandle: '@juampilistte1',
 };
 
 export default function About() {

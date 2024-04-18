@@ -12,12 +12,12 @@ export default function DisclosureOfData() {
 
       <div className="mt-6 prose prose-bblue prose-lg text-gray-500 mx-auto">
         <p className="mt-4 text-xl text-gray-500 leading-8">
-          SoloPython puede revelar sus Datos Personales si cree de buena fe que dicha acción es
+          Yula puede revelar sus Datos Personales si cree de buena fe que dicha acción es
           necesaria para:
         </p>
         <ul>
           <li>Para cumplir con una obligación legal</li>
-          <li>Para proteger y defender los derechos o la propiedad de SoloPython</li>
+          <li>Para proteger y defender los derechos o la propiedad de Yula</li>
           <li>Para prevenir o investigar posibles infracciones en relación con el Servicio</li>
           <li>Proteger la seguridad personal de los usuarios del Servicio o del público</li>
           <li>Para protegerse de la responsabilidad legal</li>

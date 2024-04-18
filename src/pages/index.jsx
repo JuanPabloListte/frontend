@@ -5,21 +5,21 @@ import Features from './components/Features';
 import Roadmap from './components/Roadmap';
 
 const SeoList = {
-  title: 'SoloPython - Aprende desarrollo de software con Python',
+  title: 'Yula - Aprende desarrollo de software con Python',
   description:
-    'SoloPython es tu recurso para aprender programación en Python y desarrollo de software. Explora tutoriales, guías y artículos de calidad para mejorar tus habilidades en Python.',
+    'Yula es tu recurso para aprender programación en Python y desarrollo de software. Explora tutoriales, guías y artículos de calidad para mejorar tus habilidades en Python.',
   href: '/',
-  url: 'https://solopython.com',
+  url: 'https://yula.com',
   keywords:
     'Python, desarrollo de software, programación, tutoriales, guías, aprendizaje, solopython',
   robots: 'all',
-  author: 'BoomSlag',
-  publisher: 'BoomSlag',
+  author: 'Juampilistte',
+  publisher: 'Juampilistte',
   image:
     'https://bafybeiaor24mrcurzyzccxl7xw46zdqpor4sfuhddl6tzblujoiukchxnq.ipfs.w3s.link/teach.png',
   video: 'https://boomslagcourses.s3.us-east-2.amazonaws.com/Quack+Sound+Effect.mp4',
 
-  twitterHandle: '@boomslag_',
+  twitterHandle: '@juampilistte1',
 };
 
 export default function Home() {

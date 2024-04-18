@@ -20,7 +20,7 @@ export default function UserContent() {
           cualquier tercero. Usted declara y garantiza que su Contenido de Usuario no viola ni
           violará las Restricciones de la Sección 7.3. Usted no puede representar o dar a entender a
           otros que su Contenido de Usuario es de alguna manera proporcionado, patrocinado o
-          respaldado por SoloPython. SoloPython no está obligada a respaldar ningún Contenido de
+          respaldado por Yula. Yula no está obligada a respaldar ningún Contenido de
           Usuario, y su Contenido de Usuario puede ser eliminado en cualquier momento sin previo
           aviso. Usted es el único responsable de crear y mantener sus propias copias de seguridad
           de su Contenido de Usuario si así lo desea.
@@ -35,7 +35,7 @@ export default function UserContent() {
         </h4>
         <p className="mt-4 text-xl text-gray-500 leading-8">
           Por la presente, usted concede (y declara y garantiza que tiene derecho a conceder) a
-          SoloPython una licencia irrevocable, no exclusiva, libre de derechos y totalmente pagada,
+          Yula una licencia irrevocable, no exclusiva, libre de derechos y totalmente pagada,
           a nivel mundial, para reproducir, distribuir, exhibir y ejecutar públicamente, preparar
           obras derivadas, incorporar a otras obras y utilizar y explotar de otro modo su Contenido
           de Usuario, y conceder sublicencias de los derechos anteriores, en relación con el
@@ -56,7 +56,7 @@ export default function UserContent() {
         <ul>
           <li>
             (a)Por la presente, usted concede (y declara y garantiza que tiene derecho a conceder) a
-            SoloPython una licencia irrevocable, no exclusiva, libre de derechos y totalmente
+            Yula una licencia irrevocable, no exclusiva, libre de derechos y totalmente
             pagada, a nivel mundial, para reproducir, distribuir, exhibir y ejecutar públicamente,
             preparar obras derivadas, incorporar a otras obras y utilizar y explotar de otro modo su
             Contenido de Usuario, y conceder sublicencias de los derechos anteriores, en relación
@@ -115,12 +115,12 @@ export default function UserContent() {
           </span>
         </h4>
         <p className="mt-4 text-xl text-gray-500 leading-8">
-          Si usted proporciona a SoloPython cualquier comentario o sugerencia en relación con el
-          Servicio ("Feedback"), usted cede a SoloPython todos los derechos sobre dicho Feedback y
-          acepta que SoloPython tendrá derecho a utilizar y explotar plenamente dicho Feedback y la
-          información relacionada de la manera que considere oportuna. SoloPython tratará los
-          Comentarios que usted proporcione a SoloPython como no confidenciales y sin derechos de
-          propiedad. Usted acepta que no enviará a SoloPython ninguna información o idea que
+          Si usted proporciona a Yula cualquier comentario o sugerencia en relación con el
+          Servicio ("Feedback"), usted cede a Yula todos los derechos sobre dicho Feedback y
+          acepta que Yula tendrá derecho a utilizar y explotar plenamente dicho Feedback y la
+          información relacionada de la manera que considere oportuna. Yula tratará los
+          Comentarios que usted proporcione a Yula como no confidenciales y sin derechos de
+          propiedad. Usted acepta que no enviará a Yula ninguna información o idea que
           considere confidencial o de su propiedad.
         </p>
       </div>

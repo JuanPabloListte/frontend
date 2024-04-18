@@ -86,7 +86,7 @@ export default function Navbar() {
       >
         <div className="flex lg:flex-1">
           <Link href="/" className="-m-1.5 p-1.5">
-            <span className="sr-only">SoloPython</span>
+            <span className="sr-only">yula</span>
             <LogoImg />
           </Link>
         </div>
@@ -249,7 +249,7 @@ export default function Navbar() {
           <div className="p-6">
             <div className="flex items-center justify-between">
               <Link href="/" className="-m-1.5 p-1.5">
-                <span className="sr-only">SoloPython</span>
+                <span className="sr-only">Yula</span>
                 <LogoImg />
               </Link>
               <button

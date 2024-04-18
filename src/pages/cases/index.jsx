@@ -6,16 +6,16 @@ const SeoList = {
   description:
     'Descubra nuestra cartera de proyectos de software de éxito, que demuestran nuestra experiencia en marketing y desarrollo de software. Descubra cómo ayudamos a nuestros clientes a alcanzar sus objetivos con soluciones innovadoras.',
   href: '/cases',
-  url: 'https://solopython.com',
+  url: 'https://yula.com',
   keywords: 'marketing de software, desarrollo de software, soluciones de software',
   robots: 'all',
-  author: 'SoloPython',
-  publisher: 'SoloPython',
+  author: 'Juampilistte',
+  publisher: 'Juampilistte',
   image:
     'https://bafybeiaor24mrcurzyzccxl7xw46zdqpor4sfuhddl6tzblujoiukchxnq.ipfs.w3s.link/teach.png',
   video: 'https://boomslagcourses.s3.us-east-2.amazonaws.com/Quack+Sound+Effect.mp4',
 
-  twitterHandle: '@boomslag_',
+  twitterHandle: '@juampilistte1',
 };
 
 export default function Cases() {

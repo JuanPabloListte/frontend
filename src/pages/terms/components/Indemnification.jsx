@@ -8,7 +8,7 @@ export default function Indemnification() {
           </span>
         </h4>
         <p className="mt-4 text-xl text-gray-500 leading-8">
-          Usted se compromete a indemnizar y eximir de responsabilidad a SoloPython (y a sus
+          Usted se compromete a indemnizar y eximir de responsabilidad a Yula (y a sus
           directivos, empleados y agentes), incluidos los costes y los honorarios de los abogados,
           por cualquier reclamación o demanda presentada por un tercero debido a, o derivada de
           <ul>
@@ -17,10 +17,10 @@ export default function Indemnification() {
             <li>(c) su violación de las leyes o reglamentos aplicables</li>
             <li>(d) su Contenido de Usuario. </li>
           </ul>
-          SoloPython se reserva el derecho, a su cargo, de asumir la defensa y el control exclusivos
+          Yula se reserva el derecho, a su cargo, de asumir la defensa y el control exclusivos
           de cualquier asunto por el que deba indemnizarnos, y usted acepta cooperar con nuestra
           defensa de estas reclamaciones. Usted se compromete a no llegar a un acuerdo sobre
-          cualquier asunto indemnizable sin nuestro consentimiento previo por escrito. SoloPython se
+          cualquier asunto indemnizable sin nuestro consentimiento previo por escrito. Yula se
           esforzará razonablemente en notificarle cualquier reclamación, acción o procedimiento en
           cuanto tenga conocimiento de ello.
         </p>

@@ -71,7 +71,7 @@ export default function GeneralTerms() {
           El Servicio puede estar sujeto a las leyes de control de exportaciones de Estados Unidos y
           puede estar sujeto a las regulaciones de exportación o importación de otros países. Usted
           se compromete a no exportar, reexportar o transferir, directa o indirectamente, ningún
-          dato técnico estadounidense adquirido de SoloPython, ni ningún producto que utilice dichos
+          dato técnico estadounidense adquirido de Yula, ni ningún producto que utilice dichos
           datos, en violación de las leyes o reglamentos de exportación de los Estados Unidos.
         </p>
       </div>
@@ -99,7 +99,7 @@ export default function GeneralTerms() {
           </span>
         </h4>
         <p className="mt-4 text-xl text-gray-500 leading-8">
-          Su relación con SoloPython es la de un contratista independiente, y ninguna de las partes
+          Su relación con Yula es la de un contratista independiente, y ninguna de las partes
           es un agente o socio de la otra.
         </p>
       </div>
@@ -112,8 +112,8 @@ export default function GeneralTerms() {
         <p className="mt-4 text-xl text-gray-500 leading-8">
           Estas Condiciones, así como sus derechos y obligaciones, no podrán ser cedidos,
           subcontratados, delegados o transferidos de cualquier otro modo por usted sin el previo
-          consentimiento por escrito de SoloPython, y cualquier intento de cesión, subcontratación,
-          delegación o transferencia que infrinja lo anterior será nulo y sin efecto. SoloPython
+          consentimiento por escrito de Yula, y cualquier intento de cesión, subcontratación,
+          delegación o transferencia que infrinja lo anterior será nulo y sin efecto. Yula
           puede ceder libremente estas Condiciones. Los términos y condiciones establecidos en estas
           Condiciones serán vinculantes para los cesionarios.
         </p>
@@ -125,7 +125,7 @@ export default function GeneralTerms() {
           </span>
         </h4>
         <p className="mt-4 text-xl text-gray-500 leading-8">
-          Copyright © 2021 SoloPython Todos los derechos reservados. Todas las marcas comerciales,
+          Copyright © 2021 Yula Todos los derechos reservados. Todas las marcas comerciales,
           logotipos y marcas de servicio ("Marcas") que aparecen en el Servicio son de nuestra
           propiedad o de la de otros terceros. Usted no está autorizado a utilizar estas marcas sin
           nuestro consentimiento previo por escrito o el consentimiento de la tercera parte que
@@ -138,7 +138,7 @@ export default function GeneralTerms() {
             13.9 Información de contacto
           </span>
         </h4>
-        <p className="mt-4 text-xl text-gray-500 leading-8">mail@solopython.com</p>
+        <p className="mt-4 text-xl text-gray-500 leading-8">juampilistte@gmail.com</p>
       </div>
     </div>
   );

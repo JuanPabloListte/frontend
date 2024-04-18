@@ -5,7 +5,7 @@ export default function PlanTerms() {
       <div className="text-lg max-w-prose mx-auto">
         <h4>
           <span className="block text-base mt-8 text-blue-600 tracking-wide uppercase font-worksans-light">
-            2. Planes y condiciones de compra de SoloPython
+            2. Planes y condiciones de compra de Yula
           </span>
           <span className="mt-2 block text-lg leading-8 font-medium tracking-tight text-gray-600 sm:text-lg">
             2.1 Planws
@@ -15,7 +15,7 @@ export default function PlanTerms() {
           Las características y el precio de su acceso al Servicio se determinan por el plan de
           suscripción y el tipo de cuenta que se registre, adquiera, renueve o cambie (cada uno de
           ellos, un "Plan"); para revisar las características y el precio asociados a los Planes de
-          SoloPython
+          Yula
         </p>
       </div>
 
@@ -27,7 +27,7 @@ export default function PlanTerms() {
         </h4>
         <p className="mt-4 text-xl text-gray-500 leading-8">
           Si usted se inscribe en un plan gratuito ("Plan Gratuito") a través de nuestro Sitio,
-          SoloPython Technologies LLC le otorga una licencia no transferible, no exclusiva,
+          Yula Technologies LLC le otorga una licencia no transferible, no exclusiva,
           revocable y limitada para usar y acceder al Servicio en estricta conformidad con estos
           Términos. Nos reservamos el derecho, a nuestra absoluta discreción, de retirar o modificar
           su acceso al Servicio en cualquier momento sin previo aviso y sin responsabilidad alguna.
@@ -41,7 +41,7 @@ export default function PlanTerms() {
           </span>
         </h4>
         <p className="mt-4 text-xl text-gray-500 leading-8">
-          Si adquiere un plan de suscripción pro ("Plan Pro"), SoloPython le concede una licencia
+          Si adquiere un plan de suscripción pro ("Plan Pro"), Yula le concede una licencia
           limitada, no transferible, no exclusiva y revocable para utilizar y acceder al Servicio
           únicamente para su uso personal durante el plazo de suscripción seleccionado (el "Plazo
           Pro") en estricta conformidad con estas Condiciones.
