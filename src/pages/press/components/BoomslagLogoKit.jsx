@@ -22,7 +22,7 @@ export default function BoomslagLogoKit() {
         {/* Content goes here */}
         <div className=" py-5 ">
           <h3 className="text-xl font-semibold leading-6 dark:text-dark-txt text-gray-900">
-            Boomslag Kit
+          Yula Kit
           </h3>
         </div>
         <ul className="grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-3 sm:gap-x-6 lg:grid-cols-4 xl:gap-x-8">

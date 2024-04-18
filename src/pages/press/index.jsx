@@ -8,18 +8,18 @@ import Products from './components/Products';
 import UridiumLogoKit from './components/UridiumLogoKit';
 
 const SeoList = {
-  title: 'Boomslag Press Kit - NFT Marketplace',
+  title: 'Yula Press Kit - NFT Marketplace',
   description:
-    'Access the Boomslag press kit for information about the company, the team, our mission, and our revolutionary NFT marketplace platform. Download our logos, brand guidelines, and other assets for use in articles, features, and other media.',
+    'Access the Yula press kit for information about the company, the team, our mission, and our revolutionary NFT marketplace platform. Download our logos, brand guidelines, and other assets for use in articles, features, and other media.',
   href: '/',
-  url: 'https://boomslag.com',
+  url: 'https://yula.com',
   keywords: 'boomslag press kit',
   robots: 'all',
-  author: 'BoomSlag',
-  publisher: 'BoomSlag',
+  author: 'Juampilistte',
+  publisher: 'Juampilistte',
   image:
     'https://bafybeiaor24mrcurzyzccxl7xw46zdqpor4sfuhddl6tzblujoiukchxnq.ipfs.w3s.link/teach.png',
-  twitterHandle: '@BoomSlag',
+  twitterHandle: '@juampilistte1',
 };
 
 export default function Press() {

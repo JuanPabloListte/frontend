@@ -4,18 +4,18 @@ import Link from 'next/link';
 import Header from './components/Header';
 
 const SeoList = {
-  title: 'Our Partners - Boomslag NFT Marketplace',
+  title: 'Our Partners - Yula NFT Marketplace',
   description:
-    'Discover our partners at Boomslag, the ultimate NFT marketplace for online courses, physical products, and more. Learn about our collaborations with leading brands and creators in the NFT space.',
+    'Discover our partners at Yula, the ultimate NFT marketplace for online courses, physical products, and more. Learn about our collaborations with leading brands and creators in the NFT space.',
   href: '/',
-  url: 'https://boomslag.com',
+  url: 'https://yula.com',
   keywords: 'boomslag partners',
   robots: 'all',
-  author: 'BoomSlag',
-  publisher: 'BoomSlag',
+  author: 'Juampilistte',
+  publisher: 'Juampilistte',
   image:
     'https://bafybeiaor24mrcurzyzccxl7xw46zdqpor4sfuhddl6tzblujoiukchxnq.ipfs.w3s.link/friends.png',
-  twitterHandle: '@BoomSlag',
+  twitterHandle: '@juampilistte1',
 };
 
 export default function Partners() {

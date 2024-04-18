@@ -26,7 +26,7 @@ const steps = [
   {
     name: 'Enhanced Social Interactions (Aug 19, 2023)',
     description:
-      'Envisioning a digital campus akin to a university, we aim to create a space for knowledge, friendships, extracurricular activities, and groups. This marks the beginning of our metaverse, the Boomslag Metaverse, or Praedium.',
+      'Envisioning a digital campus akin to a university, we aim to create a space for knowledge, friendships, extracurricular activities, and groups. This marks the beginning of our metaverse, the Yula Metaverse, or Praedium.',
     href: '#',
     status: 'upcoming',
   },
@@ -47,14 +47,14 @@ const steps = [
   {
     name: 'Tiered Subscriptions (Dec 19, 2023)',
     description:
-      'Imagine an OnlyFans-style subscription model for any product or service sold on Boomslag. Users will have the ability to create their unique brand and offer recurring subscriptions, all paid in MATIC.',
+      'Imagine an OnlyFans-style subscription model for any product or service sold on Yula. Users will have the ability to create their unique brand and offer recurring subscriptions, all paid in MATIC.',
     href: '#',
     status: 'upcoming',
   },
   {
     name: 'Poker Casino (Jan ~ Mar 19, 2024)',
     description:
-      'We plan to implement a casino for users aged 18 and older to gamble with MATIC in the Boomslag Casino. This feature is extensive, so it may take some time, but rest assured, a casino is on the horizon by late 2023 or early 2024.',
+      'We plan to implement a casino for users aged 18 and older to gamble with MATIC in the Yula Casino. This feature is extensive, so it may take some time, but rest assured, a casino is on the horizon by late 2023 or early 2024.',
     href: '#',
     status: 'upcoming',
   },

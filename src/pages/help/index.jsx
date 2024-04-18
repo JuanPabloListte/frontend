@@ -3,18 +3,18 @@ import Layout from '@/hocs/Layout';
 import Faqs from './components/Faqs';
 
 const SeoList = {
-  title: 'Join the Team - Boomslag NFT Marketplace',
+  title: 'Join the Team - Yula NFT Marketplace',
   description:
-    'Find exciting career opportunities at Boomslag, the ultimate NFT marketplace for online courses, physical products, and more. We are looking for talented individuals to help us shape the future of e-commerce with the power of blockchain technology.',
+    'Find exciting career opportunities at Yula, the ultimate NFT marketplace for online courses, physical products, and more. We are looking for talented individuals to help us shape the future of e-commerce with the power of blockchain technology.',
   href: '/',
-  url: 'https://boomslag.com',
+  url: 'https://Yula.com',
   keywords: 'boomslag, boomslag affiliates, affiliate marketing NFT, nft affiliate marketing',
   robots: 'all',
-  author: 'BoomSlag',
-  publisher: 'BoomSlag',
+  author: 'Juampilistte',
+  publisher: 'Juampilistte',
   image:
     'https://bafybeiaor24mrcurzyzccxl7xw46zdqpor4sfuhddl6tzblujoiukchxnq.ipfs.w3s.link/teach.png',
-  twitterHandle: '@BoomSlag',
+  twitterHandle: '@juampilistte1',
 };
 
 export default function Help() {

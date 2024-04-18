@@ -32,7 +32,7 @@ const customerHelpLinks = [
     link: '/help/id',
     icon: StarIcon,
     title: 'Getting Started',
-    description: 'Learn how to get started with Boomslag.',
+    description: 'Learn how to get started with Yula.',
   },
   {
     link: '/help/id',
@@ -50,7 +50,7 @@ const customerHelpLinks = [
     link: '/help/id',
     icon: VideoCameraIcon,
     title: 'Learning Experience',
-    description: 'Everything about learning on boomslag.',
+    description: 'Everything about learning on Yula.',
   },
   {
     link: '/help/id',
@@ -62,7 +62,7 @@ const customerHelpLinks = [
     link: '/help/id',
     icon: DevicePhoneMobileIcon,
     title: 'Mobile',
-    description: 'Learn about the boomslag app.',
+    description: 'Learn about the Yula app.',
   },
   {
     link: '/help/id',
@@ -78,7 +78,7 @@ const sellerLinks = [
   { text: 'Course quality checklist', path: '/help/id' },
   { text: 'Seller revenue share', path: '/help/id' },
   { text: 'Promotional agreements and deals', path: '/help/id' },
-  { text: 'Selling on Boomslag: FAQ', path: '/help/id' },
+  { text: 'Selling on Yula: FAQ', path: '/help/id' },
 ];
 
 const sellerHelpLinks = [
@@ -92,7 +92,7 @@ const sellerHelpLinks = [
     link: '/help/id',
     icon: TagIcon,
     title: 'Selling & Promotion',
-    description: 'Learn about announcements and promotions by boomslag.',
+    description: 'Learn about announcements and promotions by Yula.',
   },
   {
     link: '/help/id',

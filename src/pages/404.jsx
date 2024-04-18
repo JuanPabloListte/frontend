@@ -2,18 +2,18 @@ import Head from 'next/head';
 import Layout from '@/hocs/Layout';
 
 const SeoList = {
-  title: 'Page Not Found - Boomslag',
+  title: 'Page Not Found - Yula',
   description:
     'Oops! Looks like the page you are trying to visit does not exist. Please check the URL or go back to the homepage.',
   href: '/',
-  url: 'https://boomslag.com/404',
-  keywords: '404 error, page not found, boomslag',
+  url: 'https://yula.com/404',
+  keywords: '404 error, page not found, Yula',
   robots: 'noindex, nofollow',
-  author: 'BoomSlag',
-  publisher: 'BoomSlag',
+  author: 'Juampilistte',
+  publisher: 'Juampilistte',
   image:
     'https://bafybeiaor24mrcurzyzccxl7xw46zdqpor4sfuhddl6tzblujoiukchxnq.ipfs.w3s.link/teach.png',
-  twitterHandle: '@BoomSlag',
+  twitterHandle: '@juampilistte1',
 };
 
 export default function NotFound() {
